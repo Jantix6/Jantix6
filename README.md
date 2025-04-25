@@ -1,7 +1,17 @@
-Hello foreigner, I’m @Jantix6 and welcome to my hub!
-I’m interested in games development, specifically whatever involves game mechanics and game behaviour. 
-I've worked mainly using UnityEngine (C#), and I have experience using Android Studio (Java).
-Can be reached via email at: albertpujantedp@gmail.com
+Hi! I'm **Albert**, a **game developer** with **4+ years of Unity experience**. I also have foundational skills in **C++** and **Unreal Engine**. I love creating interactive and engaging gaming experiences.
+
+## 🌟 What I Do
+- **Unity**: Skilled in game mechanics, scripting, UI, and optimization.
+- **C++ & Unreal Engine**: Familiar with the intermediate knowledge for game development.
+- **Projects**: Building games that are fun and challenging.
+
+## 📫 Contact Me
+- **Email**: [albertpujantedp@gmail.com]
+- **LinkedIn**: [www.linkedin.com/in/albertpujante]
+
+---
+
+Thanks for visiting my profile! Let's create amazing games together! 🚀
 
 <!---
 Jantix6/Jantix6 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
